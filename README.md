@@ -1,6 +1,7 @@
 ## Social Links - 🔗
 
 [Twitter @CallMeMrSam](https://twitter.com/CallMeMrSam)
+
 [![Devia](https://discord.com/api/guilds/877500438595895326/widget.png)](https://discord.gg/S29f7PAekS)
 
 ## About Me - 👤
