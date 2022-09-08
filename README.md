@@ -51,7 +51,7 @@ Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://ww
 
 <br />
 <div>
-	<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=onedark" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=onedark" />
 	<!--<img width="45%" src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=onedark" />-->
 </div>
 
