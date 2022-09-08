@@ -42,7 +42,7 @@ Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://ww
 
 <br />
 <a href="https://github.com/samldm/Website/">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=samldm&repo=Website&theme=dracula" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=samldm&repo=Website&theme=onedark" />
 </a>
 <br />
 
@@ -52,8 +52,8 @@ Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://ww
 
 <br />
 <div>
-	<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=dracula" />
-	<!--<img width="45%" src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=dracula" />-->
+	<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=onedark" />
+	<!--<img width="45%" src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=onedark" />-->
 </div>
 
 ---
