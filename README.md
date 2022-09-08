@@ -40,4 +40,6 @@ Mon nom est Samuel, je suis un étudiant en Informatique à [Epitech](https://ww
 
 ---
 
-<span align="center">👓</span>
+<p align="center">
+   👓
+</p>
