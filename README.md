@@ -13,16 +13,7 @@ Je suis Samuel, je suis un jeune étudiant en informatique de 19 ans.
 </a>
 
 <details>
-	<summary>Stats</summary>
-	<br />
-	<img src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=dracula" align="left" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=dracula" align="left" />
-</details>
-
----
-
-<details>
-	<summary>Techno's</summary>
+	<summary>🔧 Techno's</summary>
 	<br />
 	<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 	<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -31,4 +22,13 @@ Je suis Samuel, je suis un jeune étudiant en informatique de 19 ans.
 	<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 	<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
 	<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</details>
+
+---
+
+<details>
+	<summary>📊 Statistiques</summery>
+	<br />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=dracula" align="left" />
+	<img src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=dracula" align="left" />
 </details>
