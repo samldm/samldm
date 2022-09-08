@@ -10,12 +10,14 @@ Mon nom est Samuel, je suis un étudiant en Informatique à [Epitech](https://ww
 </a>
 
 ### 🌐 • Mes réseaux:
+
 <br />
-🐤 Twitter: [@samuel_ldm](https://twitter.com/samuel_ldm)
-🎧 Discord: [Samuel_#3231](https://discord.com/users/239654425424035840)
+🐤 Twitter: [@samuel_ldm](https://twitter.com/samuel_ldm) <br />
+🎧 Discord: [Samuel_#3231](https://discord.com/users/239654425424035840) <br />
 <br />
-<br />
+
 ### 🔧 • Techno's
+
 <br />
 <div>
 	<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -27,8 +29,9 @@ Mon nom est Samuel, je suis un étudiant en Informatique à [Epitech](https://ww
 	<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 <br />
-<br />
+
 ### 📊 • Statistiques
+
 <br />
 <div>
 	<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=dracula" align="left" />
