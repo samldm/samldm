@@ -30,6 +30,18 @@ Mon nom est Samuel, je suis un étudiant en Informatique à [Epitech](https://ww
 </div>
 <br />
 
+---
+
+### 📌 • Projets Épinglés
+
+<br />
+<a href="https://github.com/samldm/Website/">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=samldm&repo=Website&theme=dracula" />
+</a>
+<br />
+
+---
+
 ### 📊 • Statistiques
 
 <br />
