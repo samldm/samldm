@@ -9,15 +9,15 @@ Je suis Samuel, je suis un jeune étudiant en informatique de 19 ans.
 
 ---
 <a  href="https://discord.com/users/239654425424035840">
-<img  src="https://lanyard.cnrad.dev/api/239654425424035840?hideTimestamp=true&idleMessage=Probably%20sleeping%20💤"  align="right"  />
+<img  src="https://lanyard.cnrad.dev/api/239654425424035840?hideTimestamp=true&idleMessage=Probably%20sleeping%20💤" align="right" />
 </a>
 
 <details>
 	<summary>Stats</summary>
 	<br />
 		<div>
-		<img src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=dracula" />
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=dracula"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=dracula" align="left" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=dracula" align="left" />
 		</div>
 </details>
 
