@@ -34,10 +34,10 @@ Mon nom est Samuel, je suis un étudiant en Informatique à [Epitech](https://ww
 
 <br />
 <div>
-	<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=dracula" align="left" />
-	<!--<img width="45%" src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=dracula" align="left" />-->
+	<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=dracula" />
+	<!--<img width="45%" src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=dracula" />-->
 </div>
 
 ---
 
-<center>👓</center>
+<span align="center">👓</span>
