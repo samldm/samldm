@@ -1,7 +1,7 @@
 # Hello GitHub 👋
 
 
-Mon nom est Samuel, je suis un étudiant en Informatique à [Epitech](https://www.epitech.eu/) (Nancy). En plus d'être passionné par l'informatique et la programmation, je suis passionné par la musique.
+Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://www.epitech.eu/) (Nancy). Mes premières lignes de codes datent du collège, depuis ce jour je découvre de plus en plus de choses chaques jours.
 
 ---
 
