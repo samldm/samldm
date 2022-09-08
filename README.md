@@ -28,6 +28,6 @@ Mon nom est Samuel, je suis un étudiant en Informatique à [Epitech](https://ww
 ### 📊 • Statistiques
 
 <div>
-	<img width="40%" src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=dracula" align="left" />
 	<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=dracula" align="left" />
+	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=dracula" align="left" />
 </div>
