@@ -16,18 +16,18 @@ Mon nom est Samuel, je suis un étudiant en Informatique à [Epitech](https://ww
 ### 🔧 • Techno's
 
 <div>
-	<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-	<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-	<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+	<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+	<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+	<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 	<br />
-	<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
-	<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+	<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+	<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+	<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
 ### 📊 • Statistiques
 
 <div>
-	<img width="60%" src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=dracula" align="left" />
+	<img width="40%" src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=dracula" align="left" />
 	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=dracula" align="left" />
 </div>
