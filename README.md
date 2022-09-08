@@ -29,6 +29,6 @@ Je suis Samuel, je suis un jeune étudiant en informatique de 19 ans.
 <details>
 	<summary>📊 Statistiques</summery>
 	<br />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=dracula" align="left" />
-	<img src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=dracula" align="left" />
+	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samldm&theme=dracula" align="left" />
+	<img width="60%" src="https://github-readme-stats.vercel.app/api?username=samldm&show_icons=true&theme=dracula" align="left" />
 </details>
