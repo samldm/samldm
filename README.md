@@ -3,7 +3,7 @@
 
 Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://www.epitech.eu/) (Nancy). Mes premières lignes de codes datent du collège, depuis ce jour je découvre de plus en plus de choses chaques jours.
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=21uqbv5ph3x35x7sbim6cvnsq&redirect=true">
+<a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=21uqbv5ph3x35x7sbim6cvnsq&redirect=true">
 	<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=21uqbv5ph3x35x7sbim6cvnsq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
 </a>
 
