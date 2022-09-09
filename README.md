@@ -61,5 +61,5 @@ Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://ww
 ---
 
 <p align="center">
-   👓
+   👋
 </p>
