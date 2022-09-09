@@ -43,6 +43,9 @@ Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://ww
 <a href="https://github.com/samldm/Website/">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=samldm&repo=Website&theme=onedark" />
 </a>
+<a href="https://github.com/samldm/Discord.js-Bot-Template">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=samldm&repo=Discord.js-Bot-Template&theme=onedark" />
+</a>
 <br />
 
 ---
