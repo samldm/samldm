@@ -35,8 +35,6 @@ Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://ww
 </div>
 <br />
 
----
-
 ### 📌 • Projets Épinglés
 
 <br />
