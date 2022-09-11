@@ -1,5 +1,11 @@
-# Hello GitHub 👋
 
+# Hello GitHub 👋
+<h3>
+	<p align="center">
+		<img width="25px" src="assets/langs.png" />
+		• <a href="#">EN</a> - <a href="#">FR</a>
+	</p>
+</h3>
 
 Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://www.epitech.eu/) (Nancy). Mes premières lignes de codes datent du collège, depuis ce jour je découvre de plus en plus de choses chaques jours.
 
