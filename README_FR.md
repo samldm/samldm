@@ -3,7 +3,7 @@
 <h3>
 	<p align="center">
 		<img width="25px" src="assets/langs.png" />
-		• <a href="#">EN</a> - <a href="#">FR</a>
+		• <a href="README.md">EN</a> - <a href="#">FR</a>
 	</p>
 </h3>
 
