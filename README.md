@@ -3,11 +3,11 @@
 <h3>
 	<p align="center">
 		<img width="25px" src="assets/langs.png" />
-		• <a href="#">EN</a> - <a href="#">FR</a>
+		• <a href="#">EN</a> - <a href="README_FR.md">FR</a>
 	</p>
 </h3>
 
-Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://www.epitech.eu/) (Nancy). Mes premières lignes de codes datent du collège, depuis ce jour je découvre de plus en plus de choses chaques jours.
+My name is Samuel, I am a french student at <a href="https://www.epitech.eu/">Epitech</a> (France, Nancy). My first lines of codes date from when I was a child, since that day I discover more and more things every day.
 
 <p align="center">
 	<a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=21uqbv5ph3x35x7sbim6cvnsq&redirect=true">
@@ -21,14 +21,14 @@ Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://ww
 	<img  src="https://lanyard.cnrad.dev/api/239654425424035840?hideTimestamp=true&idleMessage=Probably%20sleeping%20💤" align="right" />
 </a>
 
-### 🌐 • Me suivre:
+### 🌐 • Follow me:
 
 <br />
-🔗 Site web: comming soon <br />
-🐤 Twitter: <a href="https://twitter.com/samuel_ldm">@samuel_ldm</a> <br />
+🔗 Webiste: comming soon <br />
+🐤 Twitter (FR): <a href="https://twitter.com/samuel_ldm">@samuel_ldm</a> <br />
 🎧 Discord: <a href="https://discord.com/users/239654425424035840">Samuel_#3231</a> <br />
 
-### 🔧 • Techno's
+### 🔧 • Techno
 
 <br />
 <div>
@@ -42,7 +42,7 @@ Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://ww
 </div>
 <br />
 
-### 📌 • Projets Épinglés
+### 📌 • Pinned Projects
 
 <br />
 <a href="https://github.com/samldm/Website/">
@@ -55,7 +55,7 @@ Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://ww
 
 ---
 
-### 📊 • Statistiques
+### 📊 • Stats
 
 <br />
 <div>
