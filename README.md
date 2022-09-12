@@ -7,7 +7,7 @@
 	</p>
 </h3>
 
-My name is Samuel, I am a french student at <a href="https://www.epitech.eu/">Epitech</a> (France, Nancy). My first lines of codes date from when I was a child, since that day I discover more and more things every day.
+My name is Samuel, I am a french student at <a href="https://www.epitech.eu/">Epitech</a> (Nancy, France). My first lines of codes date from when I was a child, since that day I discover more and more things every day.
 
 <p align="center">
 	<a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=21uqbv5ph3x35x7sbim6cvnsq&redirect=true">
