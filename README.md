@@ -66,5 +66,5 @@ My name is Samuel, I am a french student at <a href="https://www.epitech.eu/">Ep
 ---
 
 <p align="center">
-   👋
+   👋 
 </p>
