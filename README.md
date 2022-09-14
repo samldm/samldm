@@ -66,5 +66,5 @@ My name is Samuel, I am a french student at <a href="https://www.epitech.eu/">Ep
 ---
 
 <p align="center">
-   👋 
+   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </p>
