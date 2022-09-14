@@ -66,5 +66,5 @@ Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://ww
 ---
 
 <p align="center">
-   👋
+   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </p>
