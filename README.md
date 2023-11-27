@@ -26,7 +26,7 @@ My name is Samuel, I am a french student at <a href="https://www.epitech.eu/">Ep
 <br />
 🔗 Webiste: comming soon <br />
 🐤 Twitter (FR): <a href="https://twitter.com/samuel_ldm">@samuel_ldm</a> <br />
-🎧 Discord: <a href="https://discord.com/users/239654425424035840">Samuel_#3231</a> <br />
+🎧 Discord: <a href="https://discord.com/users/239654425424035840">samuel_</a> <br />
 
 ### 🔧 • Techno
 
