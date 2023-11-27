@@ -26,7 +26,7 @@ Mon nom est Samuel, je suis un étudiant en informatique à [Epitech](https://ww
 <br />
 🔗 Site web: comming soon <br />
 🐤 Twitter: <a href="https://twitter.com/samuel_ldm">@samuel_ldm</a> <br />
-🎧 Discord: <a href="https://discord.com/users/239654425424035840">Samuel_#3231</a> <br />
+🎧 Discord: <a href="https://discord.com/users/239654425424035840">samuel_</a> <br />
 
 ### 🔧 • Techno's
 
